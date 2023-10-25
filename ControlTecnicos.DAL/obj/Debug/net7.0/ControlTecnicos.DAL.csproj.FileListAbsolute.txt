@@ -1,0 +1,17 @@
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\bin\Debug\net7.0\ControlTecnicos.DAL.deps.json
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\bin\Debug\net7.0\ControlTecnicos.DAL.runtimeconfig.json
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\bin\Debug\net7.0\ControlTecnicos.DAL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\bin\Debug\net7.0\ControlTecnicos.DAL.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.csproj.AssemblyReference.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.AssemblyInfoInputs.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.AssemblyInfo.cs
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\refint\ControlTecnicos.DAL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.genruntimeconfig.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ref\ControlTecnicos.DAL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\bin\Debug\net7.0\ControlTecnicos.Models.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\bin\Debug\net7.0\ControlTecnicos.Models.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.DAL\obj\Debug\net7.0\ControlTecnicos.DAL.csproj.CopyComplete

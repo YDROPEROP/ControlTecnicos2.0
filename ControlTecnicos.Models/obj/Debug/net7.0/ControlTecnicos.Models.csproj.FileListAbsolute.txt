@@ -1,0 +1,11 @@
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\bin\Debug\net7.0\ControlTecnicos.Models.deps.json
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\bin\Debug\net7.0\ControlTecnicos.Models.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\bin\Debug\net7.0\ControlTecnicos.Models.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\obj\Debug\net7.0\ControlTecnicos.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\obj\Debug\net7.0\ControlTecnicos.Models.AssemblyInfoInputs.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\obj\Debug\net7.0\ControlTecnicos.Models.AssemblyInfo.cs
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\obj\Debug\net7.0\ControlTecnicos.Models.csproj.CoreCompileInputs.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\obj\Debug\net7.0\ControlTecnicos.Models.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\obj\Debug\net7.0\refint\ControlTecnicos.Models.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\obj\Debug\net7.0\ControlTecnicos.Models.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.Models\obj\Debug\net7.0\ref\ControlTecnicos.Models.dll

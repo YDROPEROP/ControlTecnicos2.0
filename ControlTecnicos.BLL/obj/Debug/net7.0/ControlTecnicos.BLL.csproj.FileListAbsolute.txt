@@ -1,0 +1,17 @@
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\bin\Debug\net7.0\ControlTecnicos.BLL.deps.json
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\bin\Debug\net7.0\ControlTecnicos.BLL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\bin\Debug\net7.0\ControlTecnicos.BLL.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ControlTecnicos.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ControlTecnicos.BLL.AssemblyInfoInputs.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ControlTecnicos.BLL.AssemblyInfo.cs
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ControlTecnicos.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ControlTecnicos.BLL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\refint\ControlTecnicos.BLL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ControlTecnicos.BLL.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ref\ControlTecnicos.BLL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\bin\Debug\net7.0\ControlTecnicos.DAL.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\bin\Debug\net7.0\ControlTecnicos.Models.dll
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\bin\Debug\net7.0\ControlTecnicos.DAL.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\bin\Debug\net7.0\ControlTecnicos.Models.pdb
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ControlTecnicos.BLL.csproj.AssemblyReference.cache
+C:\Users\ydrop\source\repos\ControlTecnicosUI_V2.0\ControlTecnicos.BLL\obj\Debug\net7.0\ControlTecnicos.BLL.csproj.CopyComplete
